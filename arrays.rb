@@ -10,3 +10,6 @@ p money.unshift(0.69)
 married = ["true", "false", "false", "false"]
 # This code will only list the last item
 p married.pop
+
+#  My understanding of the idex postion in this file is the first item listed in the array is considered #0
+#  so for 4 items they would be postion [0, 1, 2, 3] or for colors red=0, green=1 blue=2 brown=3
