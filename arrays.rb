@@ -14,5 +14,5 @@ p married.pop
 #  My understanding of the idex postion in this file is the first item listed in the array is considered #0
 #  so for 4 items they would be postion [0, 1, 2, 3] or for colors red=0, green=1 blue=2 brown=3
 
-# [].length counts the number of items in the array
+# [].length counts the number of items in the array including what was done after the first method.
 p color.length
